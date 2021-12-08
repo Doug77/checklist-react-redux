@@ -16,7 +16,7 @@
 - [ ] diretório store.
 
 *Criar dentro do diretório actions:*
-- [] arquivo index.js.
+- [ ] arquivo index.js.
 
 *Criar dentro do diretório reducers:*
 - [ ] arquivo index.js.
