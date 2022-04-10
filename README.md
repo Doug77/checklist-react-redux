@@ -33,14 +33,14 @@
 - [x] importar composeWithDevTools()(É importado da lib 'redux-devtools-extension')
 
 *Na pasta reducers:*
-- [ ] criar os reducers necessários
-- [ ] configurar os exports do arquivo index.js
+- [x] criar os reducers necessários
+- [x] configurar os exports do arquivo index.js
 
 *Na pasta actions:*
-- [ ] criar os actionTypes, por exemplo: `const ADD_TO_CART = 'ADD_TO_CART';`
-- [ ] criar os actions creators necessários
+- [x] criar os actionTypes, por exemplo: `const ADD_TO_CART = 'ADD_TO_CART';`
+- [x] criar os actions creators necessários
 
 *Nos componentes:*
-- [ ] criar a função mapStateToProps(state) => ({}) (leitura de dados)
-- [ ] criar a função mapDispatchToProps(dispatch) => ({ key: (...paramAct) => dispatch(action(...paramAct)) }) (escrita de dados)
-- [ ] fazer o connect(mapStateToProps, mapDispatchToProps)(component) (importado da lib 'react-redux')
+- [x] criar a função mapStateToProps(state) => ({}) (leitura de dados)
+- [x] criar a função mapDispatchToProps(dispatch) => ({ key: (...paramAct) => dispatch(action(...paramAct)) }) (escrita de dados)
+- [x] fazer o connect(mapStateToProps, mapDispatchToProps)(component) (importado da lib 'react-redux')
