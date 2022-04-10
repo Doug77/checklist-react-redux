@@ -1,8 +1,8 @@
 # Checklist do react-redux
 
 *Antes de começar*
-- [ ] pensar como será o *formato* do seu estado global
-- [ ] pensar quais actions serão necessárias na sua aplicação
+- [x] pensar como será o *formato* do seu estado global
+- [x] pensar quais actions serão necessárias na sua aplicação
 
 *Instalação*
 - [ ] npx create-react-app my-app-redux;
